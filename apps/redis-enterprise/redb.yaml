@@ -1,0 +1,7 @@
+apiVersion: app.redislabs.com/v1alpha1
+kind: RedisEnterpriseDatabase
+metadata:
+  name: db1
+  namespace: rec1
+spec:
+  memorySize: 1GB
