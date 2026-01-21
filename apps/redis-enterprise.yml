@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/<YOUR_ORG>/<YOUR_REPO>.git
+    repoURL: https://github.com/saidatta36/gitops-redis-test.git/
     targetRevision: main
     path: redis-enterprise
   destination:
