@@ -8,7 +8,7 @@ spec:
   source:
     repoURL: https://github.com/saidatta36/gitops-redis-test.git/
     targetRevision: main
-    path: .
+    path: apps/redis-enterprise 
   destination:
     server: https://kubernetes.default.svc
     namespace: rec1
